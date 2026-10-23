@@ -1,0 +1,13 @@
+firefox
+chromium
+telegram-desktop
+steam
+docker
+docker-compose
+jdk-openjdk
+nodejs
+npm
+meld
+ripgrep
+btop
+postgresql
